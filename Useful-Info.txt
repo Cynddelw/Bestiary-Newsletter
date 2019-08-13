@@ -1,0 +1,39 @@
+Email clients that support web fonts:
+
+Apple Mail
+iOS Mail
+Google Android
+Samsung Mail (Android 8.0)
+Outlook for Mac
+Outlook App
+
+------------------
+
+Top 10 most popular email clients (July 19)
+
+#1 Gmail 29% 
+
+#2 Apple iPhone 26% 
+
+#3 Outlook 11%  
+
+#4 Apple iPad 8% 
+
+#5 Apple Mail 7%  
+
+#6 Yahoo! Mail 6%  
+
+#7 Google Android 3%  
+
+#8 Outlook.com 2% 
+
+#9 Samsung Mail 1%  
+
+#10 Thunderbird 1%  
+
+-------------------
+
+*Pro Tip: In April 2018, Gmail released an updated interface for their webmail client. 
+This new interface uses two popular web fonts: Google Sans and Roboto. 
+What does this mean? Despite Gmail not supporting web fonts, if you use either of these web fonts in your emails, they will actually render in Gmail. 
+Simply add the fonts to your font-family CSS attribute if you want to use them in your email.
